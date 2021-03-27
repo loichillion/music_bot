@@ -1,6 +1,9 @@
 "# music_bot" 
 
-readme:
+voici un bot qui a été crée pour vous aider à crée une musique qui vous correspond notament grace a un systeme de recomendation basé sur une ACP et un 
+algorithme d'accords proches de ma confection :D 
+
+comment le mettre en marche : 
 
 telechargé ngrok (le server) : https://ngrok.com/download   --> téléchargé le sur votre bureau
 
