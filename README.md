@@ -49,4 +49,8 @@ cliquez sur ngrok.exe qui est normalement sur votre bureau
 --> puis dites lui bonjour si il vous réppond: Salut, je suis music_bot c qu'il est en marche et fonctionnel
 
 
+<<<<<<< HEAD
 Ammusez vous bien avec music bot  !! :D
+=======
+Ammusez vous bien avec music bot  !! :D
+>>>>>>> 1e0be0e35926c4985458b875bd7bfc782483f0a8
