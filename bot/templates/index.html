@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>coucou</title>
+</head>
+<body>
+<h1>{{accord}}</h1>
+<ul>
+	{% for accord_proche in liste_accord_proche %}
+	<li><a href="/{{accord_proche.nom}}">{{accord_proche.nom}}</a></li>
+	{% endfor %}
+</ul>
+</body>
+</html>
